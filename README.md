@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kaleab taye</h1>
 <h3 align="center">A passionate frontend developer from Addis Ababa University (Ethiopia)</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder image" />
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleab-taye&label=Profile%20views&color=0e75b6&style=flat" alt="kaleab-taye" /> </p>
 
 - 🔭 I’m currently working on [shuk-shukta blogs](http://shuk-shukta-blogs.vercel.app/)
